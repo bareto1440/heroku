@@ -1,2 +1,1 @@
-# huuljb-heroku
-gitt innit
+deploy to heroku
